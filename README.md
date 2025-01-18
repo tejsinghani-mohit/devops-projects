@@ -1,6 +1,6 @@
 # DevOps Practice Projects
 
-This repository contains a curated list of DevOps practice projects designed to enhance your skills from beginner to advanced levels. These projects are inspired by the [DevOps Projects](https://roadmap.sh/devops/projects) on roadmap.sh.
+This repository contains a curated list of DevOps practice projects designed to enhance your skills from beginner to advanced levels.
 
 ## Project Structure
 
@@ -14,7 +14,7 @@ Each project is organized into directories based on their difficulty level:
 
 ### Beginner Projects
 
-1. **Server Performance Stats**
+1. **[Server Performance Stats](https://roadmap.sh/projects/server-stats)**
    - *Description*: Write a script to analyze basic server performance statistics.
 2. **Log Archive Tool**
    - *Description*: Build a tool to archive logs from the command line with date and time.
