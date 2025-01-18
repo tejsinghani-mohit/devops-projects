@@ -67,13 +67,6 @@ Each project is organized into directories based on their difficulty level:
 4. **Service Discovery**
    - *Description*: Set up service discovery with dummy services and Consul.
 
-## Getting Started
-
-To begin working on a project:
-
-1. Navigate to the corresponding directory for the project's difficulty level.
-2. Choose a project and read its detailed README for specific instructions.
-3. Follow the guidelines to implement the project.
 
 ## Acknowledgments
 
