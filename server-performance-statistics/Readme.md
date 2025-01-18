@@ -3,8 +3,6 @@
 ## Overview
 The `server-stats.sh` script is a simple tool to analyze basic server performance statistics on a Linux system. It provides information about CPU usage, memory usage, disk usage, and the top resource-consuming processes. Additionally, it includes optional metrics like OS version, uptime, load average, logged-in users, and failed login attempts.
 
-This project is a part of [roadmap.sh](https://roadmap.sh/projects/server-stats).
-
 ## Features
 1. **CPU Usage**: Displays the total CPU usage percentage.
 2. **Memory Usage**: Shows free and used memory (in MB) and its percentage.
