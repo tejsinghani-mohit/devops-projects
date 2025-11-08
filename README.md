@@ -16,7 +16,7 @@ Each project is organized into directories based on their difficulty level:
 
 1. **[Server Performance Stats](https://roadmap.sh/projects/server-stats)**
    - *Description*: Write a script to analyze basic server performance statistics.
-2. **Log Archive Tool**
+2. **[Log Archive Tool](https://roadmap.sh/projects/log-archive-tool)**
    - *Description*: Build a tool to archive logs from the command line with date and time.
 3. **Nginx Log Analyser**
    - *Description*: Develop a simple tool to analyze Nginx logs from the command line.
