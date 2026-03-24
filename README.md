@@ -18,7 +18,7 @@ Each project is organized into directories based on their difficulty level:
    - *Description*: Write a script to analyze basic server performance statistics.
 2. **[Log Archive Tool](https://roadmap.sh/projects/log-archive-tool)**
    - *Description*: Build a tool to archive logs from the command line with date and time.
-3. **Nginx Log Analyser**
+3. **[Nginx Log Analyser](https://roadmap.sh/projects/nginx-log-analyser)**
    - *Description*: Develop a simple tool to analyze Nginx logs from the command line.
 4. **GitHub Pages Deployment**
    - *Description*: Create a GitHub Actions workflow to deploy a static website to GitHub Pages.
