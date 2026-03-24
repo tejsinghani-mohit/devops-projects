@@ -4,6 +4,8 @@
 
 A lightweight, zero-dependency Bash script to analyze Nginx access logs and quickly surface the top request patterns.
 
+Project Source: https://roadmap.sh/projects/server-stats
+
 ## Features
 
 - Top 5 IP addresses by request count
