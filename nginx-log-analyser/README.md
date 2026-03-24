@@ -4,7 +4,7 @@
 
 A lightweight, zero-dependency Bash script to analyze Nginx access logs and quickly surface the top request patterns.
 
-Project Source: https://roadmap.sh/projects/server-stats
+Project Source: [https://roadmap.sh/projects/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser)
 
 ## Features
 
