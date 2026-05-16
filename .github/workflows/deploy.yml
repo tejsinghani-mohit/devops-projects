@@ -25,6 +25,8 @@ jobs:
         uses: actions/jekyll-build-pages@v1
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: gh-deployment-workflow
   deploy:
     runs-on: ubuntu-latest
     needs: build
