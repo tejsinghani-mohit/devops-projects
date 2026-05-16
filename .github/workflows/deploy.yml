@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - './gh-deployment-workflow/index.html'
+      - 'gh-deployment-workflow/index.html'
 
 permissions:
   contents: read
