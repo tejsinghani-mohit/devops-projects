@@ -20,7 +20,7 @@ Each project is organized into directories based on their difficulty level:
    - *Description*: Build a tool to archive logs from the command line with date and time.
 3. **[Nginx Log Analyser](https://roadmap.sh/projects/nginx-log-analyser)**
    - *Description*: Develop a simple tool to analyze Nginx logs from the command line.
-4. **GitHub Pages Deployment**
+4. **[GitHub Pages Deployment](https://roadmap.sh/projects/github-actions-deployment-workflow)**
    - *Description*: Create a GitHub Actions workflow to deploy a static website to GitHub Pages.
 5. **SSH Remote Server Setup**
    - *Description*: Set up a basic remote Linux server and configure SSH access.

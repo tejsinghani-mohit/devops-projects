@@ -5,6 +5,8 @@ This folder demonstrates deploying a static website to GitHub Pages using a GitH
 - `index.html`: Simple landing page that says "Hello, GitHub Actions!".
 - `.github/workflows/deploy.yml`: Workflow that builds and deploys the site to GitHub Pages when `index.html` changes on the `main` branch.
 
+Project Source: https://roadmap.sh/projects/github-actions-deployment-workflow
+
 How it works:
 
 1. Push changes to the `main` branch that modify `index.html`.
